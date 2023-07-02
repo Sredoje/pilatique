@@ -167,6 +167,10 @@
     margin-top: 75px;
     border-top: 1px solid #eeeeee;
   }
+
+  .navbar .navbar-brand .img-fluid {
+    max-width: 100vh;
+  }
 }
 
 @media (min-width: 992px) {
@@ -501,7 +505,7 @@
   color: white;
 }
 .footer .text-light {
-  color: var(--dark) !important;
+  color: var(--light) !important;
   font-weight: bold !important;
 }
 .bg-footer {
