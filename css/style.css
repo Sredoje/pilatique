@@ -154,7 +154,7 @@
 
 @media (max-width: 991.98px) {
   .navbar .navbar-brand {
-    width: 126px;
+    max-width: 100% !important;
     height: 50px;
   }
 
